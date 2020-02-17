@@ -7,4 +7,4 @@ This page lets the user choose a movie and seats and saves the information local
 * Local storage used to save the inforamtion locally. It will not be lost on a page refresh
 * Technologies used: flex-box, event listeners, map(), forEach(), local storage, CSS perspective property, JSON stringify
 
-[Demo](https://rawcdn.githack.com/mecramer/movie-seat-booking/be65ca4528763ba9b561974a6c725140fbc556b3/index.html)
+[Demo](https://rawcdn.githack.com/mecramer/movie-seat-booking/a2469d31aea79618638b39aa013a6505ab023768/index.html)
